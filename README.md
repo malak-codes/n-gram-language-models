@@ -44,5 +44,5 @@ python main.py
 The script will load the WikiText-2 dataset, train the models, and output results for next-word prediction, sentence probabilities, and perplexity calculations.
 
 ## Authors
-- Malak Laham
-- Zenab Waked
+- Malak
+- Zenab
